@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">👋 Welcome to My GitHub Profile!</h1>
 
-<!--
-**Srinu-Namana/Srinu-Namana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Hi there! I'm Manikanta Srinu 🚀
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+A passionate Java Developer | Java Full Stack Developer
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💫 About Me
+- 🎓 B.Tech Graduate in Electronics and Communication Engineering
+- 💻 Passionate about Java Development
+- 🌱 Currently learning Java Full Stack Development
+- 🚀 Interested in building real-world applications
+- 🤝 Welcome to my world of coding!
+
+---
+
+### 🛠️ Technologies & Skills
+Java | SQL | HTML | CSS | JavaScript | Spring Boot
+
+---
+
+### 📫 Let's Connect
+Feel free to explore my repositories and connect with me!
+
+<h3 align="center">✨ Thanks for Visiting My Profile! ✨</h3>
